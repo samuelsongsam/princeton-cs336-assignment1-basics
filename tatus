@@ -1,0 +1,44 @@
+[33ma3beb6e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Halfway to tokenizer
+[33ma158843[m[33m ([m[1;31morigin/main[m[33m)[m Change leaderboard time limit from 90 to 45 minutes
+[33mf7e895f[m Add CLAUDE.md
+[33m371db5d[m Fix SGD argument in example
+[33m18c4a12[m Add AdamW change to changelog
+[33m8de87b9[m Minor changelog clarification
+[33mfb26473[m Update code and writeup to 26.0.1
+[33m61d5184[m Disable __version__ if metadata retrieval fails
+[33m0cc698d[m Simplify writeup name
+[33m6191c1a[m Version 26.0.0
+[33m430e2c8[m Fix typing for run_load_checkpoint
+[33m87524b3[m 1.0.6, fix RoPE, minor typing fixes
+[33m904e9ee[m Update lockfile, fix minor typing issue for adapters
+[33m949cee5[m Minor typing and formatting fixes, simplify snapshot test implementation and allow it to support type checking
+[33m167890b[m Version 1.0.5: Reformatting, fix truncated LM test, update corresponding snapshot
+[33me240278[m Version 1.0.5: Fixed RoPE notation, packaging cleanup, fix typos
+[33m4c8dee0[m Merge pull request #7 from immortal3/patch-1
+[33m49e13de[m adding explicit encoding to "utf-8", default causing problem in windows
+[33m4764eea[m add license
+[33m1076cb9[m Fix typos, add make_submission
+[33md762420[m Update link to leaderboard
+[33mc8885f5[m Merge branch 'main' of https://github.com/stanford-cs336/assignment1-basics
+[33mf15d6d0[m Add tests on encoding text w/ double newlines (should not merge across pretokens)
+[33m65ddd62[m updates mostly on parallelizing pretokenization; see CHANGELOG
+[33m81bd309[m Provide starter code for parallelizing pretokenization, update CHANGELOG
+[33mb31c7b2[m Fix ordering of vocab comparison
+[33m609d61b[m Update train_bpe test to split properly
+[33mba4ce49[m Include snapshot testing for handling <|endoftext|>
+[33m2c6bcb1[m v1.0.3, Intel Mac support, test BPE training with special tokens
+[33m1e4f433[m fix rope description
+[33m25a8a49[m Merge branch 'main' of https://github.com/stanford-cs336/assignment1-basics
+[33m1a9ba7a[m Increase default tolerances for tests
+[33mb03ac39[m v1.0.2 handout
+[33md4d4cc4[m Merge branch 'main' of https://github.com/stanford-cs336/assignment1-basics
+[33m090c3cd[m v1.0.2 - Add missing tests and adapters
+[33m0930b71[m v1.0.1 handout; see CHANGELOG.md
+[33mf8e0865[m Improve tests with v1.0.1
+[33m26efabc[m Merge branch 'main' of https://github.com/stanford-cs336/assignment1-basics
+[33m460d5de[m Remove ipdb dep
+[33mfb119e9[m Merge branch 'main' of github.com:stanford-cs336/assignment1-basics
+[33m2e51402[m update links
+[33m360bfd4[m V1 launch
+[33m2d03107[m v1.0.0 A1 pdf
+[33me74ea76[m Initial commit
